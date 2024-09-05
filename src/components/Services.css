@@ -1,0 +1,16 @@
+/* .card-div {
+  transition: width height 1s;
+}
+
+.card-div:hover {
+  height: 500px;
+  height: 300px;
+} */
+.img-div {
+  transition: transform 0.5s, scale 0.5s;
+}
+
+.img-div:hover {
+  transform: rotate(30deg);
+  scale: 1.2;
+}

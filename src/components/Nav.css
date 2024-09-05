@@ -1,0 +1,7 @@
+.anchor-points {
+  transition: color 0.5s;
+}
+
+.anchor-points:hover {
+  color: #4242f7;
+}

@@ -1,0 +1,9 @@
+.heroModel {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("../assets/heroBg.jpg");
+}
+
+.quote-btn:hover {
+  background-color: rgb(0, 0, 0);
+}
